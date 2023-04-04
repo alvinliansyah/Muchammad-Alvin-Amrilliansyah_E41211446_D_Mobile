@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         editText = findViewById(R.id.editText);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 String url=editText.getText().toString();
                 Intent intent=new Intent(Intent.ACTION_VIEW, Uri.parse(url));
                 startActivity(intent);
