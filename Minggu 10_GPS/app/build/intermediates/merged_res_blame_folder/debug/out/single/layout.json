@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.minggu10.app-mergeDebugResources-4:/layout/activity_maps.xml",
+        "source": "com.example.minggu10.app-main-7:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.minggu10.app-mergeDebugResources-4:/layout/acara34_2.xml",
+        "source": "com.example.minggu10.app-main-7:/layout/acara34_2.xml"
+    },
+    {
+        "merged": "com.example.minggu10.app-mergeDebugResources-4:/layout/acara33.xml",
+        "source": "com.example.minggu10.app-main-7:/layout/acara33.xml"
+    },
+    {
+        "merged": "com.example.minggu10.app-mergeDebugResources-4:/layout/acara34.xml",
+        "source": "com.example.minggu10.app-main-7:/layout/acara34.xml"
+    }
+]
